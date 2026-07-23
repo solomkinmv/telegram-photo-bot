@@ -1,0 +1,1 @@
+"""MacCam Bot package."""
